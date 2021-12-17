@@ -1,24 +1,27 @@
 <div align="center">
-  <h2 style="font-size: 2em;"><b>Md. Badi-Uz-Zaman Shajibr</b></h2>
+  <h2 style="font-size: 2em;"><b>Md. Badi-Uz-Zaman Shajib</b></h2>
   <p>
     <b>Dhaka, Bangladesh<br/>
-    <a href="mailto:mbzshajib@gmail.com">mbzshajib@gmail.com</a> &bull;
-    <a href="https://www.linkedin.com/in/mbzshajib">LinkedIn</a> &bull;
+      <a href="mailto:mbzshajib@gmail.com">mbzshajib@gmail.com</a> &bull;
+      <a href="phone">+88 016 111 20220</a> &bull;
+      <a href="https://www.linkedin.com/in/mbzshajib">LinkedIn</a> &bull;
+      <a href="https://github.com/mbzshajib">GitHub</a> &bull;
     </b>
   </p>
 </div>
 
 ---
-### **PROFESSIONAL PROFILE**
-Here goes professional Profiles.
+### **PROFILE**
+Working in fintech enterprise solution for more than 8 years.    
+Very much passion to apply accquired engineering knowledge to solve critical business and social problem that will add value to socity and help people to have a better life.
 
 ---
 ### **WORK EXPERIENCE**
-**bKash Limited, Dhaka, Bangladesh** 
-*Principal Engineer (Nov. 2021 – Present)*
-* Designed, Developed and Deployed systems containing multiple microservices with Spring Boot, Oracle DB, MySql and
-**Kona Software Lab Ltd., Dhaka, Bangladesh**  
-*Principal Software Engineer (Sept. 2013 – Nov. 2021)*
+**bKash Limited, Dhaka, Bangladesh**    
+*Principal Engineer (Nov. 2021 – Present)*    
+
+**Kona Software Lab Ltd., Dhaka, Bangladesh**    
+*Principal Software Engineer (Sept. 2013 – Nov. 2021)*    
 
 ---
 ### **TECH SKILLS**
