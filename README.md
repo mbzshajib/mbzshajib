@@ -78,7 +78,7 @@ second largest mobile financial services, a venture by the Bangladesh Post Offic
 
 **Technology** Spring Boot, Spring Batch, Hibernate, Oracle, Gradle, Point of Sales (POS), Groovy, HA Proxy, Nginx,
 SmartCard, HCE, POS, ISO 8583, QR Payment, EMV QR, Payment Processor, Accounting, F5, Safenet HSM, Redis Cluster,
-RabbitMQ, ELK, Grafana,Prometheus.
+RabbitMQ, ELK, Grafana,Prometheus.  
 **Website**: [Digital Financial System](https://konasl.com/digitization-platform/kona-dfs/)
 || [nagad.com.bd](https://nagad.com.bd)
 
