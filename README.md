@@ -15,7 +15,6 @@
 Working in the fintech industry, cryptography, and payment ecosystem for more than eight years, and gained proficiency in designing, building scalable systems with agility. I am very passionate to apply my accquired engineering knowledge and solve critical business and social problems which will add value to socity and help people to have a better life.
 
 ---
-
 ### **TECH SKILLS**
 **Languages & Frameworks**: Java, Spring, spring Boot, Spring Batch, Spring Cloud, JPA, Hibernate, C,Python, JavaScript, SQL (Oracle, MySQL), NoSQL(DynamoDB), Shell Script  
 **Technology & Tools**: Redis, AWS, SQS, S3, NLB, EC2, Kinesis,CloudWatch, JMS, RabbitMQ, Kafka, Wildfly, Tomcat, Undertow, Apache, HA Proxy, Nginx, Zuul, F5, Switch, Unix/Linux, Gradle, Maven, Docker, GitHub, Virtual Box, Jenkins, Ansible, Jira, Confluence, Intelij IDEA, Netbeans, Eclipse, VisualStudio  
@@ -23,14 +22,11 @@ Working in the fintech industry, cryptography, and payment ecosystem for more th
 **Payment & Security**: EMV Payment, Smart Card, Mobile Payment, QR Payment, Payment Gateway, Payment Switch, Tokenization, Cryptography, HSM, Payment Processor, POS, Acquiring, HCE, Accounting, ISO/IEC 7816, ISO 8583, PCI/DSS  
 
 ---
-
 ### **SOFT SKILLS**
-**Great At:** Teamwork, Debugging, Analysing Problems and finding solutions, Learning.  
-**Good At:** 
+**Great At:** Teamwork, Debugging, Analysing Problems, finding solutions, Learning, Adaptation, Aespectful to other's Opinion, Agile.  
 
 ---
-
-### **WORKED IN PROJECTS**
+### **MENTIONABLE PROJECTS**
 #### **bKash App Platform**  
 **Tech Stack:** Spring Framework, Spring Boot, Spring Batch, Oracle DB, Redis
 
