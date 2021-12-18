@@ -11,24 +11,16 @@
 </div>
 
 ---
-### **PROFILE**
-Working in fintech enterprise solution for more than 8 years.    
-Very much passion to apply accquired engineering knowledge to solve critical business and social problem that will add value to socity and help people to have a better life.
+### **Summary**
+Working in the fintech industry, cryptography, and payment ecosystem for more than eight years, and gained proficiency in designing, building scalable systems with agility. I am very passionate to apply my accquired engineering knowledge and solve critical business and social problems which will add value to socity and help people to have a better life.
 
 ---
-### **WORK EXPERIENCE**
-**bKash Limited, Dhaka, Bangladesh**    
-*Principal Engineer (Nov. 2021 – Present)*    
 
-**Kona Software Lab Ltd., Dhaka, Bangladesh**    
-*Principal Software Engineer (Sept. 2013 – Nov. 2021)*    
-
----
 ### **TECH SKILLS**
-**Expert:** Java, Spring Framework, Spring Boot, SQL, JPA, Git, Docker, Oracle DB, Redis, MicroService,  Spring Batch,
-**Advanced:** Cloud Platform, Shell Scripting, ReactJS, Hibernate, MyBatis, Gradle, MySQL, MariaDb, AWS
-EC2, ECS & ELB, Jira, Confluence, RabbitMQ, Apache Kafka
-**Familiar:** HTML, CSS, Scala, PHP, C, C++, Spring Cloud, ELK Stack, Kubernetes, MongoDB, Postgres
+**Languages & Frameworks**: Java, Spring, spring Boot, Spring Batch, Spring Cloud, JPA, Hibernate, C,Python, JavaScript, SQL (Oracle, MySQL), NoSQL(DynamoDB), Shell Script  
+**Technology & Tools**: Redis, AWS, SQS, S3, NLB, EC2, Kinesis,CloudWatch, JMS, RabbitMQ, Kafka, Wildfly, Tomcat, Undertow, Apache, HA Proxy, Nginx, Zuul, F5, Switch, Unix/Linux, Gradle, Maven, Docker, GitHub, Virtual Box, Jenkins, Ansible, Jira, Confluence, Intelij IDEA, Netbeans, Eclipse, VisualStudio  
+**Performance & Monitoring**: Apache JMeter, ELK Stack, APM  
+**Payment & Security**: EMV Payment, Smart Card, Mobile Payment, QR Payment, Payment Gateway, Payment Switch, Tokenization, Cryptography, HSM, Payment Processor, POS, Acquiring, HCE, Accounting, ISO/IEC 7816, ISO 8583, PCI/DSS  
 
 ---
 
@@ -120,7 +112,14 @@ Spring, MyBatis, MySQL, Oracle, Smart Card
 
 
 ---
+### **WORK EXPERIENCE**
+**bKash Limited, Dhaka, Bangladesh**    
+*Principal Engineer (Nov. 2021 – Present)*    
 
+**Kona Software Lab Ltd., Dhaka, Bangladesh**    
+*Principal Software Engineer (Sept. 2013 – Nov. 2021)*    
+
+---
 ### **EDUCATION**
 **University of Dhaka, Bangladesh**  
 M.S. in Computer Science and Engineering (2012)    
