@@ -140,21 +140,21 @@ Website**: [K-EVT](https://konasl.com/smart-card-and-personalization/emv-verific
 
 #### **Card Perso System (CPS)**
 
-This is a smart card personalization system mainly targeted for banking payment cards. It can personalize cards from all
-global payment brands like Visa, MasterCard, Amex etc. At the same time, it can install other card applications for java
-based smart cards. For data preparation, processing or personalization, it follows the GP and Payment Brand
-specifications and guideline for Smart Card. CPS has seamless integration with major hardware machines. I worked
-customization of this product.  
-**Technology** Spring, MyBatis, MySQL, Oracle, Smart Card, Matica, Hoodo Machine, Global Platform, Embedded System.
+Smart card personalization system targeted for banking payment cards like Visa, MasterCard, Amex etc. CPS has seamless integration with major hardware machines.
+- study specifications and support new payment brand complying specifications.
+- integrated hoodo machine.
+
+**Technology** Spring, MyBatis, MySQL, Oracle, Smart Card, Matica, Hoodo Machine, Global Platform, Embedded System, ISO-7816.
 Integration.  
 **Website**:
-[card-personalization-system-k-cps](https://konasl.com/smart-card-and-personalization/card-personalization-system-k-cps)
+[c](https://konasl.com/smart-card-and-personalization/card-personalization-system-k-cps)
 
 #### **Instant Issuance Service (K-IIS)**
 
 Desktop based application aimed to issue payment cards to customer at bank branch at once with low cost. This is
-integrated with Hoodo Machine to print payment cards instantly. It has been developed following ISO-7816, Payment Brand,
-and GP specifications and guidelines. Studying specification and development accordingly was my main role in this
+integrated with Hoodo Machine to print payment cards instantly.
+- Study specifications of payment brands.
+- Design and develop the application.
 project.  
 **Technology** Spring, MyBatis, MySQL, Oracle, Smart Card, Hoodo, Global Platform, Embedded System, ISO-7816.
 Integration.  
@@ -163,7 +163,7 @@ Integration.
 
 #### **Key Management System (KMS)**
 
-For cryptography, there use a different type of keys DES, RSA, etc.). These keys' values are stored inside HSM (Hardware
+For cryptography, there use a different type of keys DES, RSA, etc.) stored inside HSM (Hardware
 Security Module). To manage these keys and integrate with different HSM this KMS is used. This has been developed on
 specification given by Global Platform. I worked on customization of the module and HSM integration.  
 **Technology** Spring, MyBatis, MySQL, Oracle, Smart Card, HSM, Safenet, Thales.
