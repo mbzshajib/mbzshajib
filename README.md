@@ -52,6 +52,14 @@ I have worked on design and develop of Accounting and Payment module of the syst
 **Technology**
 Spring, Hibernate, Oracle, Shell Script, Gradle, Point of Sales (POS), Groovy, HA Proxy, Nginx, SmartCard, HCE, POS, ISO 8583, QR Payment, EMV QR, Payment Processor, Accounting System
 
+#### **<a href="https://next.dhakarunlords.com/dashboard">DHAKA NEXT</a>**    
+DHAKA NEXT platform will replace the standard race with a virtual one which empowers active and aspiring athletes to leverage their fitness even in the times of Covid-19.  
+
+**Contributions**
+
+**Technology**
+PHP, MYSQL, Laravel
+
 #### **<a href=https://www.dutchbanglabank.com/nexuspay/nexusPay-home.html>NexusPay</a>**
 
 NexusPay is a digitized payment platform of Dutch-Bangla Bank Ltd, Bangladesh. Digitization ofexisting debit/credit card, bank account, mobile banking (Rocket) to the virtual card and link to an existing account (core banking, mobile banking and credit card system), over KonaPay platform and payment via most of the payment media. EMV-QR/NFC payment is one of the most advanced payment methods have been introduced in this product in Bangladesh. Loyalty card management (prepaid-card version) has also been introduced in this product.
