@@ -33,8 +33,13 @@ Good at Teamwork, planning, debugging, analysing problems, finding solutions, Le
 
 #### **Digital Financial System**    
 Nagad is the second largest digital financial services a venture by the Bangladesh Post Office with a user-base containing more than 50,000,000 users. The system is based on Kona Pay Platform. This platform has payment options in different channel like Mobile Wallet, USSD, E-Commerce Platform, Third party services. It has also many integrations for different service, for instance mobile recharge, bill payment, payment, fund transfer etc.
-I currently I am working as technical team lead of server side development team consist of 11 developers in this project. I perform technical analysis of feature design, task and timeline breakdown, development planning, code review, technical feature review, delivery, release and coordination with other teams in this project. Additionally I help client and requirement team to design new features.  
-I have worked on design and develop of Accounting and Payment module of the system. Additionally, I have managedthe production server, resolving critical service issues and handling several critical technical situations.  
+- I currently I am working as technical team lead of server side development team consist of 11 developers in this project. 
+- I perform technical analysis of feature design, task and timeline breakdown, development planning, code review, technical feature review, delivery, release and coordination with other teams in this project. 
+- Additionally I help client and requirement team to design new features.  
+- I have worked on design and develop of Accounting and Payment module of the system. 
+- Additionally, I have managed the production server
+- Resolving critical service issues and handling several critical technical situations.  
+
 **Technology** Spring, Hibernate, Oracle, Shell Script, Gradle, Point of Sales (POS), Groovy, HA Proxy, Nginx, SmartCard, HCE, POS, ISO 8583, QR Payment, EMV QR, Payment Processor, Accounting System  
 **Website**: https://nagad.com.bd
 
