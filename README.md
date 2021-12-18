@@ -23,7 +23,7 @@ Working in the fintech industry, cryptography, and payment ecosystem for more th
 
 ---
 ### **SOFT SKILLS**
-**Great At:** Teamwork, Debugging, Analysing Problems, finding solutions, Learning, Adaptation, Aespectful to other's Opinion, Agile.  
+Good at Teamwork, planning, debugging, analysing problems, finding solutions, Learning new things, adapting new environment and culture and respectful to other's Opinion.
 
 ---
 ### **MENTIONABLE PROJECTS**
@@ -35,62 +35,49 @@ Working in the fintech industry, cryptography, and payment ecosystem for more th
 Nagad is the second largest digital financial services a venture by the Bangladesh Post Office with a user-base containing more than 50,000,000 users. The system is based on Kona Pay Platform. This platform has payment options in different channel like Mobile Wallet, USSD, E-Commerce Platform, Third party services. It has also many integrations for different service, for instance mobile recharge, bill payment, payment, fund transfer etc.
 I currently I am working as technical team lead of server side development team consist of 11 developers in this project. I perform technical analysis of feature design, task and timeline breakdown, development planning, code review, technical feature review, delivery, release and coordination with other teams in this project. Additionally I help client and requirement team to design new features.  
 I have worked on design and develop of Accounting and Payment module of the system. Additionally, I have managedthe production server, resolving critical service issues and handling several critical technical situations.  
-**Technology**  
-Spring, Hibernate, Oracle, Shell Script, Gradle, Point of Sales (POS), Groovy, HA Proxy, Nginx, SmartCard, HCE, POS, ISO 8583, QR Payment, EMV QR, Payment Processor, Accounting System  
+**Technology** Spring, Hibernate, Oracle, Shell Script, Gradle, Point of Sales (POS), Groovy, HA Proxy, Nginx, SmartCard, HCE, POS, ISO 8583, QR Payment, EMV QR, Payment Processor, Accounting System  
 **Website**: https://nagad.com.bd
 
 #### **DHAKA NEXT**    
-DHAKA NEXT platform will replace the standard race with a virtual one which empowers active and aspiring athletes to leverage their fitness even in the times of Covid-19.  
-**Technology**  
-PHP, MYSQL, Laravel  
+DHAKA NEXT platform to replace the standard race with a virtual one which empowers active and aspiring athletes to leverage their fitness even in the times of Covid-19.  
+**Technology** PHP, MYSQL, Laravel  
 **Website**: https://next.dhakarunlords.com
 
 #### **NexusPay**
-
 NexusPay is a digitized payment platform of Dutch-Bangla Bank Ltd, Bangladesh. Digitization ofexisting debit/credit card, bank account, mobile banking (Rocket) to the virtual card and link to an existing account (core banking, mobile banking and credit card system), over KonaPay platform and payment via most of the payment media. EMV-QR/NFC payment is one of the most advanced payment methods have been introduced in this product in Bangladesh. Loyalty card management (prepaid-card version) has also been introduced in this product.  
 I have worked as Technical Project Manager in this project. My responsibility was to communicateclient, design and customization product according to the requirement.}
 Additionally, I have managed and guide POS development team to develop POS application for Ingenico and Nexgodevices  
-**Technology**  
-Spring, Hibernate, Oracle, Shell Script, Gradle, Point of Sales (POS), Groovy, HA Proxy, Nginx, PKCS11,Smart Card, HCE, POS, ISO 8583, QR Payment, EMV QR, Payment Processor, Accounting System  
+**Technology** Spring, Hibernate, Oracle, Shell Script, Gradle, Point of Sales (POS), Groovy, HA Proxy, Nginx, PKCS11,Smart Card, HCE, POS, ISO 8583, QR Payment, EMV QR, Payment Processor, Accounting System  
 **Website**: https://www.dutchbanglabank.com/nexuspay/nexusPay-home.html
-
 
 #### **KonaCard**
 KonaCard is a deployment of KonaPay in South Korea. KonaPay has been customized to fit in aprepaid-business with the integration of several leading acquirer and issuer in South Korea. It supports almost every south Korean Payment Card all over South Korea. It has both hardware and mobile application version.
 I worked on payment module of this product. I also developed a continuous delivary process withJenkins and Oracle Virtual box.  
-**Technology**
-Spring, Hibernate, MyBatis, Oracle, MySQL, Shell Script, Gradle, Groovy, Tomcat, Wildfly, HA Proxy,PKCS11, Smart Card, HCE, Oracle VM, System Automation, Micro Service, ISO 8583, POS, Oracle VM.  
+**Technology** Spring, Hibernate, MyBatis, Oracle, MySQL, Shell Script, Gradle, Groovy, Tomcat, Wildfly, HA Proxy,PKCS11, Smart Card, HCE, Oracle VM, System Automation, Micro Service, ISO 8583, POS, Oracle VM.  
 **Website**: https://www.konacard.co.kr
 
 #### **Kona Pay**    
 is a secure, fast and robust platform based on host card emulation (\textbf{HCE}) and\textbf{tokenization}. This is a core micro-service based platform that enables issuance and authorization of virtual card that can be kept in a smartphone with highly secured and standard process. This platform can easily be integrated with payment systems, identity verification. This platform has specialization on payment platform - issuing and authorizing payment through NFC, e-commerce, QR payment and all other media of payment. This has compliance with the standard specifications (VISA/MasterCard etc).  
 Main role in this product was to read specification, design and develop the issuance and authorization part of thevirtual card.  
-**Technology**  
-Spring, Hibernate, MyBatis, Oracle, MySQL, Shell Script, Gradle, Groovy, Tomcat, Wildfly, HA Proxy,PKCS11, Smart Card, HCE, Oracle VM, System Automation, Micro Service  
+**Technology** Spring, Hibernate, MyBatis, Oracle, MySQL, Shell Script, Gradle, Groovy, Tomcat, Wildfly, HA Proxy,PKCS11, Smart Card, HCE, Oracle VM, System Automation, Micro Service  
 **Website**: https://konasl.com/digitization-platform/kona-pay
 
 #### **EMV Verification Tool**
 Kona-EVT (Kona EMV Verification Tool) tests a personalized EMV card. Afterpersonalization of an EMV card, there needs to verify different data elements of the card according to the specifications of payment brands like Visa, MasterCard etc. Kona EMV Verification tool (Kona-EVT) fulfills that purpose  
 Study  and implement verification tool. Main responsibility was to implement the specifications.  
-**Technology**    
-Jave SE, File Base Storage, Smart Card  
+**Technology** Jave SE, File Base Storage, Smart Card  
 **Website**: https://konasl.com/smart-card-and-personalization/emv-verification-tool-k-evt
+
 #### **Card Personalization System**
 K-CPS is a smart card personalization system mainly targeted for bankingpayment cards. It can personalize cards from all global payment brands like Visa, MasterCard, Amex etc. At the same time, it can personalization other applications for java smart cards. For data preparation and personalization, it compliance the Global Platform specifications for Smart Card. K-CPS has seamless integration with major hardware machine machines.
 I worked customization of this product.  
-**Technology**    
-Spring, MyBatis, MySQL, Oracle, Smart Card.  
+**Technology** Spring, MyBatis, MySQL, Oracle, Smart Card.  
 **Website**: https://konasl.com/smart-card-and-personalization/card-personalization-system-k-cps
 
 #### **Key Management System**
 is Kona Key Management System. For cryptography, there use a different type of keys DES, RSA,  etc.). These keys' values are stored inside HSM (Hardware Security Module). To manage these keys and integrate with different HSM this KMS is used. This has been developed on specification given by Global Platform.}
-
-**Contributions**
 I worked customization and HSM integration. 
-
-**Technology**
-Spring, MyBatis, MySQL, Oracle, Smart Card
-
+**Technology** Spring, MyBatis, MySQL, Oracle, Smart Card
 
 
 ---
