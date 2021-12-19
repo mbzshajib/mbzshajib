@@ -59,7 +59,7 @@ and portal support for its Agents, Merchants, and Partners.
 
 **Tech Stack:** Java, Reactive Java, Spring Framework, Spring Boot, Spring Batch, AWS, SQS, CloudWatch, S3, DynamoDB,
 Docker.  
-**Website**: [bKash](https://www.bkash.com/)
+**Website**: [bkash.com](https://www.bkash.com/)
 
 #### **Digital Financial System**
 
