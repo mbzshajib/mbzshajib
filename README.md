@@ -29,7 +29,8 @@ and solve critical business and social problems which will add value to socity a
   Unix/Linux, Gradle, Maven, Docker, GitHub, Virtual Box, Jenkins, Ansible, Jira, Confluence, Intellij IDEA, Netbeans,
   Eclipse, Visual Studio.
 - **Payment & Security**: EMV Payment, Smart Card, Mobile Payment, QR Payment, Payment Gateway, Payment Switch,
-  Tokenization, Cryptography, HSM, Payment Processor, POS, Acquiring, HCE, Accounting, ISO/IEC-7816, ISO-8583, PCI/DSS, PKCS11.
+  Tokenization, Cryptography, HSM, Payment Processor, POS, Acquiring, HCE, Accounting, ISO/IEC-7816, ISO-8583, PCI/DSS,
+  PKCS11.
 
 ### **Soft Skills**
 
@@ -42,15 +43,19 @@ environment and culture and respectful to other's Opinion.
 
 #### **bKash App Platform**
 
-bKash is the largest MFS (mobile financial service) in Bangladesh that serves more than 55M customers and handle more
-than 10M daily transactions over several channels like, Mobile Payment, QR and merchant payment, Agent based
-transactions, online and utility payments etc. by thousands of Agent, Merchant and Partners. Through [bKash Mobile
-Wallet](https://play.google.com/store/apps/details?id=com.bKash.customerapp&hl=en&gl=US), user enjoys several payment and non-payment features.
+bKash is the largest MFS (mobile financial service) company in Bangladesh. Its system handles 55M+ customers who perform
+a daily average of 10M payments over several channels like mobile network, smartphone, QR, merchant payment, Agent-based
+transactions, online and utility bill payments. To support the MFS payment ecosystem, it provides several back-office
+and portal support for its Agents, Merchants, and Partners.
 
-- Rate Limiting and throttling system
-- Find system bottleneck for make the system resilient.
-- Performance Tuning for large volume of transactions.
-- Plan adapt design and architectural changes support more TPS.
+- Through [bKash Mobile Wallet](https://play.google.com/store/apps/details?id=com.bKash.customerapp&hl=en&gl=US), the
+  users enjoy different methods to perform payment, non-payment, and additional features. Some of the major components
+  are on monolithic service with highly coupled. The primary role here is to analyze current performance, system
+  architecture, and redesign to a decoupled and resilient architecture.
+- Redesign legacy services to support a high volume of oddly distributed transactions. Improve TPS and TPM for the
+  non-performing services at scale. Performance improvement of legacy modules is one of the major responsibility.
+- Study and learn system bottlenecks to tune them accordingly. Working on limiting and throttling APIs for the services
+  that are slow, and perform badly in particular third-party API services.
 
 **Tech Stack:** Java, Reactive Java, Spring Framework, Spring Boot, Spring Batch, AWS, SQS, CloudWatch, S3, DynamoDB,
 Docker.  
@@ -58,85 +63,103 @@ Docker.
 
 #### **Digital Financial System**
 
-Digital Financial System ([DFS](https://konasl.com/digitization-platform/kona-dfs/)) is a flexible product designed on
-micro-service based architecture to serve business to provide its customer a unified digital payment platform supporting
-high volume of active user base to perform payment and many other value added services. It also supports back office
-operations and data warehousing. [Nagad](https://nagad.com.bd/en/) is one of the customers of this platform who are the
-second largest mobile financial services, a venture by the Bangladesh Post Office with a user-base containing more than
-50M users and daily avg transaction daily 3.5M.
+Digital Financial System ([DFS](https://konasl.com/digitization-platform/kona-dfs/) is a flexible product designed on
+micro-service-based architecture to serve the business to provide its customer a unified digital payment platform
+supporting a high volume of active users base to perform payment and other value added services. It also supports
+back-office operations and data warehousing. [Nagad](https://nagad.com.bd/en/) is one of the customers of this platform
+who are the second-largest mobile financial services, a venture by the Bangladesh Post Office with a user-base
+containing more than 50M users and daily avg transaction daily 3.5M.
 
 - Support Payment through different channels (e.g HCE, NFC, Smart-Phone, QR, USSD, Card, POS, ATM, Bank Transfer),
-  Cashback, Discount, Promotion. Card Network, MNO (USSD, TopUp), Utility Billing integration with a Flexible third
-  party integration model.
-- Multiple Web portal support for different business entity and platform management with a different reporting layer.
-- Worked on Back office processing clearing, settlement, business critical reporting data batching adn data flow
+  Cashback, Discount, Promotion. Card Network, MNO (USSD, TopUp), Utility Billing integration with a flexible
+  third-party integration model.
+- Multiple Web portal support for different business entities and platform management with a different reporting layer.
+- Worked on Back office processing clearing, settlement, business-critical reporting data batching and data flow
   pipeline creation Data warehousing for extensive reporting and applying business intelligence. analysis.
 - Monitor system performance and tune accordingly, resolving critical service issues and handling several critical
-  technical situations. System is designed and optimized for performing 60M transactions per day.
-- Deployed on private data center ensuring compliance of regulatory, security, high availability and options to scale.
-- I have worked as a System Designer and tech lead of the core system team with philosophy of agile, following software
-  engineering processes. Designed and developed core Accounting and Payment services of the system.
+  technical situations. The system is designed and optimized for performing 60M transactions per day.
+- Deployed on private data center ensuring compliance of regulatory, security, high availability, and options to scale.
+- I have worked as a System Designer and tech lead of the core system team with a philosophy of agile, following
+  software engineering processes. Designed and developed core Accounting and Payment services of the system.
 
 **Technology** Spring Boot, Spring Batch, Hibernate, Oracle, Gradle, Point of Sales (POS), Groovy, HA Proxy, Nginx,
 SmartCard, HCE, POS, ISO 8583, QR Payment, EMV QR, Payment Processor, Accounting, F5, Safenet HSM, Redis Cluster,
-RabbitMQ, ELK, Grafana,Prometheus.  
+RabbitMQ, ELK, Grafana, Prometheus.  
 **Website**: [Digital Financial System](https://konasl.com/digitization-platform/kona-dfs/)
 || [nagad.com.bd](https://nagad.com.bd)
 
 #### **DHAKA NEXT**
 
-DHAKA NEXT platform to replace the standard race with a virtual one which empowers active and aspiring athletes to
-leverage their fitness even in the times of Covid-19.  
+DHAKA NEXT platform to replace the standard race with a virtual one that empowers active and aspiring athletes to
+leverage their fitness even in the times of Covid-19. Users can work out virtually and add take part in challenges with
+their friends.
+
+- Did research and several POC to get data from wearable and third-party websites.
+- Designed, Tested, and optimized system to perform activity supported for 10K people taking part in a race at a time.
+- Throttled third-party paid API calls to reduce cost.
+- Scheduled synchronization of user data protecting user data privacy.
+- Backend portal to administrate the race and events with different roles and permission.
+
 **Technology** PHP, MYSQL, Laravel  
 **Website**: [next.dhakarunlords.com](https://next.dhakarunlords.com)
 
 #### **NexusPay**
 
-NexusPay is a digitized payment platform of Dutch-Bangla Bank Ltd, Bangladesh. Digitization ofexisting debit/credit
-card, bank account, mobile banking (Rocket) to the virtual card and link to an existing account (core banking, mobile
-banking and credit card system), over KonaPay platform and payment via most of the payment media. EMV-QR/NFC payment is
-one of the most advanced payment methods have been introduced in this product in Bangladesh. Loyalty card management (
-prepaid-card version) has also been introduced in this product.  
-I have worked as Technical Project Manager in this project. My responsibility was to communicateclient, design and
-customization product according to the requirement.} Additionally, I have managed and guide POS development team to
-develop POS application for Ingenico and Nexgodevices  
-**Technology** Spring, Hibernate, Oracle, Shell Script, Gradle, Point of Sales (POS), Groovy, HA Proxy, Nginx,
-PKCS11,Smart Card, HCE, POS, ISO 8583, QR Payment, EMV QR, Payment Processor, Accounting System  
+NexusPay is a digitized payment platform for the existing bank accounts, credit/debit cards, Mobile banking, and Agent
+Banking accounts of Dutch-Bangla Bank Ltd, Bangladesh.
+
+- Integrated multiple accounting systems with NexusPay for account validation and performing transactions.
+- Support multiple payment methods like NFC payment, ATM cash withdrawal, in-App Payment, Merchant and Consumer
+  Presented QR payment, e-commerce payment, utility, and bill payment in the platform.
+- Introduced loyalty card management ( prepaid-card version).
+- Prepared servers and deployed in Bank data center with compliance of regulatory, high availability, and option to
+  scale.
+- Worked as a system designer and implement some of the core payment services of the product.
+- Developed POS applications on Ingenico and Nexgo devices to support proprietary Kona Pay NFC payments.
+
+**Technology** Spring, Hibernate, Oracle, Shell Script, Gradle, Point of Sales (POS), Groovy, HA Proxy, Nginx, PKCS11,
+Smart Card, HCE, POS, ISO 8583, QR Payment, EMV QR, Payment Processor, Accounting System.  
 **Website**: [NexusPay](https://www.dutchbanglabank.com/nexuspay/nexusPay-home.html)
 
 #### **KonaCard**
 
-KonaCard is a deployment of KonaPay in South Korea. KonaPay has been customized to fit in aprepaid-business with the
-integration of several leading acquirer and issuer in South Korea. It supports almost every south Korean Payment Card
-all over South Korea. It has both hardware and mobile application version. I worked on payment module of this product. I
-also developed a continuous delivary process withJenkins and Oracle Virtual box.  
-**Technology** Spring, Hibernate, MyBatis, Oracle, MySQL, Shell Script, Gradle, Groovy, Tomcat, Wildfly, HA
-Proxy,PKCS11, Smart Card, HCE, Oracle VM, System Automation, Micro Service, ISO 8583, POS, Oracle VM.  
+KonaCard is a deployment of KonaPay in South Korea. KonaPay has been customized to fit in a prepaid business with the
+integration of several leading acquirers, payment processors (VVAN), and issuers in South Korea. It supports almost
+every south Korean Payment Card all over South Korea.
+
+- Worked on user management and payment module of this product.
+- Developed a continuous delivery process with Jenkins and Oracle Virtual box.
+
+**Technology** Spring, Hibernate, MyBatis, Oracle, MySQL, Shell Script, Gradle, Groovy, Tomcat, Wildfly, HA Proxy,
+PKCS11, Smart Card, HCE, Oracle VM, System Automation, Micro Service, ISO 8583, POS, Oracle VM.  
 **Website**: [konacard.co.kr](https://www.konacard.co.kr)
 
 #### **Kona Pay**
 
-is a secure, fast and robust platform based on host card emulation HCEtokenization. This is a core micro-service based
-platform that enables issuance and authorization of virtual card that can be kept in a smartphone with highly secured
-and standard process. This platform can easily be integrated with payment systems, identity verification. This platform
-has specialization on payment platform - issuing and authorizing payment through NFC, e-commerce, QR payment and all
-other media of payment. This has compliance with the standard specifications (
-VISA/MasterCard etc).  
-Main role in this product was to read specification, design and develop the issuance and authorization part of
-the virtual card.  
-**Technology** Spring, Hibernate, MyBatis, Oracle, MySQL, Shell Script, Gradle, Groovy, Tomcat, Wildfly, HA
-Proxy, PKCS11, Smart Card, HCE, Oracle VM, System Automation, Micro Service  
-**Website**: https://konasl.com/digitization-platform/kona-pay
+Secure, fast, and robust platform based on host card emulation (HCE) tokenization. This is a core microservice-based
+platform that enables the issuance and authorization of virtual cards that can be kept in a smartphone with a highly
+secured and standard process. This platform can easily be integrated with payment systems, identity verification. This
+platform has specialization on payment platform - issuing and authorizing payment through flexible options. This has
+compliance with the standard specifications ( VISA/MasterCard etc).
+
+- Study specification, design, and develop the issuance and authorization part of the virtual card.
+- Analyzed requirements, designed and developed payment gateway module.
+- Took part in designing core service components.
+
+**Technology** Spring, Hibernate, MyBatis, Oracle, MySQL, Shell Script, Gradle, Groovy, Tomcat, Wildfly, HA Proxy,
+PKCS11, Smart Card, HCE, Oracle VM, System Automation, Micro Service  
+**Website**: [kona-pay](https://konasl.com/digitization-platform/kona-pay)
 
 #### **EMV Verification Tool (K-EVT)**
 
 K-EVT (Kona EMV Verification Tool) tests a personalized EMV card. Before issuing of an EMV card, there needs to verify
-different data elements of the card according to the specifications of payment brands like Visa, MasterCard etc. EVT
-fulfills that purpose  
-Study and implement verification tool. Main responsibility was to implement the specifications.  
+different data elements of the card according to the specifications of payment brands like Visa, MasterCard etc.
+
+- Study and implement verification tool. Main responsibility was to implement the specifications.
+
 **Technology** Jave SE, File Base Storage, Smart Card  
-**
-Website**: [K-EVT](https://konasl.com/smart-card-and-personalization/emv-verification-tool-k-evt)
+**Website**:
+[emv-verification-tool-k-evt](https://konasl.com/smart-card-and-personalization/emv-verification-tool-k-evt)
 
 #### **Card Perso System (CPS)**
 
@@ -159,7 +182,7 @@ project.
 **Technology** Spring, MyBatis, MySQL, Oracle, Smart Card, Hoodo, Global Platform, Embedded System, ISO-7816.
 Integration.  
 **Website**:
-[instant-issuance-system-k-iis/](https://konasl.com/smart-card-and-personalization/instant-issuance-system-k-iis/)
+[instant-issuance-system-k-iis](https://konasl.com/smart-card-and-personalization/instant-issuance-system-k-iis/)
 
 #### **Key Management System (KMS)**
 
