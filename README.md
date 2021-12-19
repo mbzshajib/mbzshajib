@@ -239,7 +239,7 @@ _B.A.F Shaheen College Chittagong || GPA: 5.00 / 5.00_
 
 ### **Training and Courses**
 
-**Advanced Certificate for Management Professionals (ACMP-4I)**    
+**Advanced Certificate for Management Professionals (ACMP)**    
 _October 2020, at Dhaka, Bangladesh,_    
 Organized by _LICT, Government of Bangladesh,_    
 Conducted by _Institute of Business Administration, University of Dhaka, Bangladesh._
