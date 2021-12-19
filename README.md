@@ -34,8 +34,8 @@ and solve critical business and social problems which will add value to socity a
 
 ### **Soft Skills**
 
-Good at Teamwork, planning, debugging, analysing problems, finding solutions, Learning new things, adapting new
-environment and culture and respectful to other's Opinion.
+Good at teamwork, planning, debugging, analyzing problems, finding solutions. Learning new things, adapting to new
+environments and cultures, and being respectful to others' opinions.
 
 ---
 
