@@ -43,8 +43,8 @@ environment and culture and respectful to other's Opinion.
 
 #### **bKash App Platform**
 
-bKash is the largest MFS (mobile financial service) company in Bangladesh. Its system handles 55M+ customers who perform
-a daily average of 10M payments over several channels like mobile network, smartphone, QR, merchant payment, Agent-based
+bKash is the largest and the most popular payment application in Bangladesh. It handles 55M+ customers who perform a
+daily average of 10M payments over several channels like mobile network, smartphone, QR, merchant payment, Agent-based
 transactions, online and utility bill payments. To support the MFS payment ecosystem, it provides several back-office
 and portal support for its Agents, Merchants, and Partners.
 
@@ -163,12 +163,14 @@ different data elements of the card according to the specifications of payment b
 
 #### **Card Perso System (CPS)**
 
-Smart card personalization system targeted for banking payment cards like Visa, MasterCard, Amex etc. CPS has seamless integration with major hardware machines.
+Smart card personalization system targeted for banking payment cards like Visa, MasterCard, Amex etc. CPS has seamless
+integration with major hardware machines.
+
 - study specifications and support new payment brand complying specifications.
 - integrated hoodo machine.
 
-**Technology** Spring, MyBatis, MySQL, Oracle, Smart Card, Matica, Hoodo Machine, Global Platform, Embedded System, ISO-7816.
-Integration.  
+**Technology** Spring, MyBatis, MySQL, Oracle, Smart Card, Matica, Hoodo Machine, Global Platform, Embedded System,
+ISO-7816. Integration.  
 **Website**:
 [c](https://konasl.com/smart-card-and-personalization/card-personalization-system-k-cps)
 
@@ -176,19 +178,19 @@ Integration.
 
 Desktop based application aimed to issue payment cards to customer at bank branch at once with low cost. This is
 integrated with Hoodo Machine to print payment cards instantly.
+
 - Study specifications of payment brands.
-- Design and develop the application.
-project.  
-**Technology** Spring, MyBatis, MySQL, Oracle, Smart Card, Hoodo, Global Platform, Embedded System, ISO-7816.
-Integration.  
-**Website**:
-[instant-issuance-system-k-iis](https://konasl.com/smart-card-and-personalization/instant-issuance-system-k-iis/)
+- Design and develop the application. project.  
+  **Technology** Spring, MyBatis, MySQL, Oracle, Smart Card, Hoodo, Global Platform, Embedded System, ISO-7816.
+  Integration.  
+  **Website**:
+  [instant-issuance-system-k-iis](https://konasl.com/smart-card-and-personalization/instant-issuance-system-k-iis/)
 
 #### **Key Management System (KMS)**
 
-For cryptography, there use a different type of keys DES, RSA, etc.) stored inside HSM (Hardware
-Security Module). To manage these keys and integrate with different HSM this KMS is used. This has been developed on
-specification given by Global Platform. I worked on customization of the module and HSM integration.  
+For cryptography, there use a different type of keys DES, RSA, etc.) stored inside HSM (Hardware Security Module). To
+manage these keys and integrate with different HSM this KMS is used. This has been developed on specification given by
+Global Platform. I worked on customization of the module and HSM integration.  
 **Technology** Spring, MyBatis, MySQL, Oracle, Smart Card, HSM, Safenet, Thales.
 
 ---
@@ -196,10 +198,26 @@ specification given by Global Platform. I worked on customization of the module 
 ### **Professional Experience**
 
 **bKash Limited, Dhaka, Bangladesh**    
-*Principal Engineer (Nov. 2021 – Present)*
+_Principal Engineer (Nov. 2021 – Present.)_  
+bKash is the largest MFS (mobile financial service) company in Bangladesh.
+
+- Understand the complex and proprietary payment system of bKash.
+- Analyze system bottlenecks and plan for the redesign of the existing architecture.
+- Working on some legacy services and converting them to reactive architecture for better performance.
 
 **Kona Software Lab Ltd., Dhaka, Bangladesh**    
-*Principal Software Engineer (Sept. 2013 – Nov. 2021)*
+_Principal Software Engineer (Sept. 2013 – Nov. 2021)_
+
+- Worked on the system design team for Kona Pay Platform, NexusPay, DFS, and developed account and payment modules of
+  the core platform. Tuned the modules to scale up to 200 real-time financial transactions per second.
+- Study and understand specifications on payment and security to comply with the product development.
+- Analyze client requirements, study them, design them to fit into the product, and plan for development and implement
+  features.
+- Monitor system performance and optimize to achieve the targeted goal. Additionally, resolve critical production issues
+  to meet the SLA.
+- Worked as tech lead of agile team for several projects in planning, developing, and delivering the project
+  requirements.
+- Worked as consultant to other project teams to help design new features.
 
 ---
 
@@ -238,8 +256,7 @@ Organized & Conducted by [Kona I](href=https://konai.com)
 
 ### **Publications**
 
-**<a href=https://ieeexplore.ieee.org/abstract/document/7814711>An Efficient Approach for Mining Frequent Patterns over
-Uncertain Data Streams</a>**    
+**[An Efficient Approach for Mining Frequent Patterns over Uncertain Data Streams](https://ieeexplore.ieee.org/abstract/document/7814711)**    
 International Conference on Tools for Artificial Intelligence (ICTAI)      
 November 6-8, 2016 at San Jose, California, USA.
 
