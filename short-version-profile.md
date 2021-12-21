@@ -31,32 +31,12 @@ and solve critical business and social problems which will add value to socity a
 - **Payment & Security**: EMV Payment, Smart Card, Mobile Payment, QR Payment, Payment Gateway, Payment Switch,
   Tokenization, Cryptography, HSM, Payment Processor, POS, Acquiring, HCE, Accounting, ISO/IEC-7816, ISO-8583, PCI/DSS,
   PKCS11.
-- **Soft Skills**:ood at teamwork, planning, debugging, analyzing problems, finding solutions. Learning new things, adapting to new
-environments and cultures, and being respectful to others' opinions.
+- **Soft Skills**:ood at teamwork, planning, debugging, analyzing problems, finding solutions. Learning new things,
+  adapting to new environments and cultures, and being respectful to others' opinions.
 
 ---
 
 ### **Mentionable Projects**
-
-#### **bKash App Platform**
-
-bKash is the largest and the most popular payment application in Bangladesh. It handles 55M+ customers who perform a
-daily average of 10M payments over several channels like mobile network, smartphone, QR, merchant payment, Agent-based
-transactions, online and utility bill payments. To support the MFS payment ecosystem, it provides several back-office
-and portal support for its Agents, Merchants, and Partners.
-
-- Through [bKash Mobile Wallet](https://play.google.com/store/apps/details?id=com.bKash.customerapp&hl=en&gl=US), the
-  users enjoy different methods to perform payment, non-payment, and additional features. Some of the major components
-  are on monolithic service with highly coupled. The primary role here is to analyze current performance, system
-  architecture, and redesign to a decoupled and resilient architecture.
-- Redesign legacy services to support a high volume of oddly distributed transactions. Improve TPS and TPM for the
-  non-performing services at scale. Performance improvement of legacy modules is one of the major responsibility.
-- Study and learn system bottlenecks to tune them accordingly. Working on limiting and throttling APIs for the services
-  that are slow, and perform badly in particular third-party API services.
-
-**Tech Stack:** Java, Reactive Java, Spring Framework, Spring Boot, Spring Batch, AWS, SQS, CloudWatch, S3, DynamoDB,
-Docker.  
-**Website**: [bkash.com](https://www.bkash.com/)
 
 #### **Digital Financial System**
 
@@ -126,26 +106,13 @@ every south Korean Payment Card all over South Korea.
 
 - Worked on user management and payment module of this product.
 - Developed a continuous delivery process with Jenkins and Oracle Virtual box.
-
-**Technology** Spring, Hibernate, MyBatis, Oracle, MySQL, Shell Script, Gradle, Groovy, Tomcat, Wildfly, HA Proxy,
-PKCS11, Smart Card, HCE, Oracle VM, System Automation, Micro Service, ISO 8583, POS, Oracle VM.  
-**Website**: [konacard.co.kr](https://www.konacard.co.kr)
-
-#### **Kona Pay**
-
-Secure, fast, and robust platform based on host card emulation (HCE) tokenization. This is a core microservice-based
-platform that enables the issuance and authorization of virtual cards that can be kept in a smartphone with a highly
-secured and standard process. This platform can easily be integrated with payment systems, identity verification. This
-platform has specialization on payment platform - issuing and authorizing payment through flexible options. This has
-compliance with the standard specifications ( VISA/MasterCard etc).
-
 - Study specification, design, and develop the issuance and authorization part of the virtual card.
 - Analyzed requirements, designed and developed payment gateway module.
 - Took part in designing core service components.
 
 **Technology** Spring, Hibernate, MyBatis, Oracle, MySQL, Shell Script, Gradle, Groovy, Tomcat, Wildfly, HA Proxy,
-PKCS11, Smart Card, HCE, Oracle VM, System Automation, Micro Service  
-**Website**: [kona-pay](https://konasl.com/digitization-platform/kona-pay)
+PKCS11, Smart Card, HCE, Oracle VM, System Automation, Micro Service, ISO 8583, POS, Oracle VM.  
+**Website**: [konacard.co.kr](https://www.konacard.co.kr)
 
 #### **EMV Verification Tool (K-EVT)**
 
@@ -158,36 +125,26 @@ different data elements of the card according to the specifications of payment b
 **Website**:
 [emv-verification-tool-k-evt](https://konasl.com/smart-card-and-personalization/emv-verification-tool-k-evt)
 
-#### **Card Perso System (CPS)**
-
-Smart card personalization system targeted for banking payment cards like Visa, MasterCard, Amex etc. CPS has seamless
-integration with major hardware machines.
-
-- study specifications and support new payment brand complying specifications.
-- integrated hoodo machine.
-
-**Technology** Spring, MyBatis, MySQL, Oracle, Smart Card, Matica, Hoodo Machine, Global Platform, Embedded System,
-ISO-7816. Integration.  
-**Website**:
-[c](https://konasl.com/smart-card-and-personalization/card-personalization-system-k-cps)
-
 #### **Instant Issuance Service (K-IIS)**
 
 Desktop based application aimed to issue payment cards to customer at bank branch at once with low cost. This is
 integrated with Hoodo Machine to print payment cards instantly.
 
-- Study specifications of payment brands.
-- Design and develop the application. project.  
-  **Technology** Spring, MyBatis, MySQL, Oracle, Smart Card, Hoodo, Global Platform, Embedded System, ISO-7816.
-  Integration.  
-  **Website**:
-  [instant-issuance-system-k-iis](https://konasl.com/smart-card-and-personalization/instant-issuance-system-k-iis/)
+- study specifications and support new payment brand complying specifications.
+- Design and develop the application project.  
+- integrated Hoodo machine.
+
+**Technology** Spring, MyBatis, MySQL, Oracle, Smart Card, Hoodo, Global Platform, Embedded System, ISO-7816.  
+**Website**:
+[instant-issuance-system-k-iis](https://konasl.com/smart-card-and-personalization/instant-issuance-system-k-iis/)
 
 #### **Key Management System (KMS)**
 
 For cryptography, there use a different type of keys DES, RSA, etc.) stored inside HSM (Hardware Security Module). To
 manage these keys and integrate with different HSM this KMS is used. This has been developed on specification given by
-Global Platform. I worked on customization of the module and HSM integration.  
+Global Platform. 
+- I worked on customization of the module and HSM integration.  
+
 **Technology** Spring, MyBatis, MySQL, Oracle, Smart Card, HSM, Safenet, Thales.
 
 ---
