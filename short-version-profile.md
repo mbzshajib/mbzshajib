@@ -171,17 +171,17 @@ _Principal Software Engineer (Sept. 2013 – Nov. 2021)_
   to meet the SLA.
 - Worked as tech lead of agile team for several projects in planning, developing, and delivering the project
   requirements.
-- Worked as consultant to other project teams to help design new features.
+- Worked as consultant to other project teams to guide designing new features.
 
 ---
 
 ### **Education**
 
-**_Master of Science_ in Computer Science and Engineering (2014)**  
-_University of Dhaka, Bangladesh
+**_Master of Science_ in Computer Science and Engineering**  
+_University of Dhaka, Bangladesh (2013-2015)
 
 **_Bachelor of Science_ in Computer Science and Engineering, Bangladesh (2012)**  
-_University of Dhaka, Bangladesh
+_University of Dhaka, Bangladesh (2009-2013)
 
 ---
 
