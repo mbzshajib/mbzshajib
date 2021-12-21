@@ -31,7 +31,7 @@ and solve critical business and social problems which will add value to socity a
 - **Payment & Security**: EMV Payment, Smart Card, Mobile Payment, QR Payment, Payment Gateway, Payment Switch,
   Tokenization, Cryptography, HSM, Payment Processor, POS, Acquiring, HCE, Accounting, ISO/IEC-7816, ISO-8583, PCI/DSS,
   PKCS11.
-  **Soft Skills**:ood at teamwork, planning, debugging, analyzing problems, finding solutions. Learning new things, adapting to new
+- **Soft Skills**:ood at teamwork, planning, debugging, analyzing problems, finding solutions. Learning new things, adapting to new
 environments and cultures, and being respectful to others' opinions.
 
 ---
