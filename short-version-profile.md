@@ -15,8 +15,8 @@
 ### **Summary**
 
 <!-- Make one line -->
-Very passionate to apply my acquired engineering knowledge and solve critical business and social problems which will
-add value to society and help people to have a better life.
+Passionate to apply my acquired engineering knowledge and solve critical business and social problems which will add
+value to society and help people to have a better life.
 
 ---
 
@@ -24,15 +24,15 @@ add value to society and help people to have a better life.
 
 <!-- Review -->
 
-- **Languages & Frameworks**: Java, C, Python, JavaScript, Spring Framework, Spring Boot, Spring Batch, Spring Cloud,
-  JPA, Hibernate, SQL(Oracle & MySQL), NoSQL(DynamoDB), Shell Script.
-- **Technology & Tools**: Redis, AWS, SQS, S3, NLB, EC2, Kinesis, CloudWatch, JMS, RabbitMQ, Kafka, Wildfly, Tomcat,
-  Undertow, Apache, HA Proxy, Nginx, Mosquitto, Zuul, F5, Switch, Apache JMeter, ELK Stack, APM, Prometheus, Grafana,
-  Unix/Linux, Gradle, Maven, Docker, GitHub, Virtual Box, Jenkins, Ansible, Jira, Confluence, Intellij IDEA, Netbeans,
-  Eclipse, Visual Studio.
-- **Payment & Security**: EMV Payment, Smart Card, Mobile Payment, QR Payment, Payment Gateway, Payment Switch,
-  Tokenization, Cryptography, HSM, Payment Processor, POS, Acquiring, HCE, Accounting, ISO/IEC-7816, ISO-8583, PCI/DSS,
+- **Languages & Frameworks**: Java, C, Spring Framework, Spring Boot, Spring Batch, Spring Cloud, JPA, Hibernate, SQL(
+  Oracle & MySQL), NoSQL(DynamoDB), Shell Script.
+- **Technology & Tools**: Redis, RabbitMQ, Kafka, Tomcat, Undertow, HA Proxy, Mosquitto, Zuul, F5, Switch, JMeter, ELK
+  Stack, APM, Prometheus, Grafana, Unix/Linux, Gradle, Maven, Docker, Git, Jenkins, Ansible, Jira, Confluence, Intellij
+  IDEA, Visual Studio.
+- **Payment & Security**: EMV Payment, Smart Card, Tokenization, HCE Payment, QR Payment, Payment Gateway, Payment
+  Switch, HSM, Payment Processor, Cryptography, POS, Accounting, ISO/IEC-7816, ISO-8583, PCI/DSS, ISO 9564, PKCS7,
   PKCS11.
+- **Interest**: Software Design, Micro Service, Cloud Computing.
 
 [comment]: <> (- **Soft Skills**: Teamwork, planning, debugging, analyzing, finding solutions. Learning new things,)
 
@@ -72,9 +72,8 @@ payment, reward management, back office batch processing and several web portals
 - I have worked as a System Designer and tech lead of the core system team. Designed and developed core Accounting and
   Payment services of the platform.
 
-**Technology** Spring Boot, Spring Batch, Hibernate, Oracle, Gradle, Point of Sales (POS), Groovy, HA Proxy, Nginx,
-SmartCard, HCE, POS, ISO 8583, QR Payment, EMV QR, Payment Processor, Accounting, F5, Safenet HSM, Redis Cluster,
-RabbitMQ, ELK, Grafana, Prometheus.  
+**Technology** Java, Spring Boot, Spring Batch, Spring Cloud, Hibernate, Oracle, HA Proxy, Nginx, HCE, ISO 8583,
+Accounting System, EMV QR, Payment Processor, F5, Safenet HSM, Redis, RabbitMQ, APM, ELK, Grafana, Prometheus.  
 **Website**: [Digital Financial System](https://konasl.com/digitization-platform/kona-dfs/)
 || [nagad.com.bd](https://nagad.com.bd)
 
@@ -162,34 +161,31 @@ _Principal Engineer (Nov. 2021 – Present.)_
 bKash is the largest MFS (mobile financial service) company in Bangladesh.
 <!-- Two Line -->
 
-- Understand the complex and proprietary payment system of bKash.
-- Analyze system bottlenecks and plan for the redesign of the existing architecture.
-- Working on some legacy services and converting them to reactive architecture for better performance.
+- Understand the complex and proprietary payment system of bKash, analyze system bottlenecks of existing architecture.
+- Working on some legacy services to convert them to reactive architecture for better performance.
 
 **Kona Software Lab Ltd., Dhaka, Bangladesh**    
 _Principal Software Engineer (Sept. 2013 – Nov. 2021)_
 <!-- 4/5 Line -->
 
-- Worked on the system design team for Kona Pay Platform, NexusPay, DFS, and developed account and payment modules of
-  the core platform. Tuned the modules to scale up to 200 real-time financial transactions per second.
-- Study and understand specifications on payment and security to comply with the product development.
-- Analyze client requirements, study them, design them to fit into the product, and plan for development and implement
-  features.
+- Study, understand and implement specifications on payment and security for development of payment modules.
+- Worked on the system design team for Kona Pay Platform, NexusPay, DFS, and developed account and payment authorization
+  modules of the core platform. Tuned the modules to scale up to 200 real-time financial transactions per second and 50M
+  transaction per day.
+- Analyzed client requirements and design them to fit into the product. Worked as tech lead of development team for
+  several projects in planning, developing, and delivering the project requirements within timeline.
 - Monitor system performance and optimize to achieve the targeted goal. Additionally, resolve critical production issues
   to meet the SLA.
-- Worked as tech lead of agile team for several projects in planning, developing, and delivering the project
-  requirements.
-- Worked as consultant to other project teams to guide designing new features.
 
 ---
 
 ### **Education**
 
-**_Master of Science_ in Computer Science and Engineering**  
-_University of Dhaka, Bangladesh (2013-2015)
+**_Master of Science (M.S.)_ in Computer Science and Engineering**  
+_University of Dhaka, Bangladesh (2013-2015)_
 
-**_Bachelor of Science_ in Computer Science and Engineering, Bangladesh (2012)**  
-_University of Dhaka, Bangladesh (2009-2013)
+**_Bachelor of Science (B.S)_ in Computer Science and Engineering, Bangladesh (2012)**  
+_University of Dhaka, Bangladesh (2009-2013)_
 
 ---
 
