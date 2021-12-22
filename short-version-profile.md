@@ -13,6 +13,7 @@
 ---
 
 ### **Summary**
+
 <!-- Make one line -->
 Working in the fintech industry, cryptography, and payment ecosystem for more than eight years, and gained proficiency
 in designing, building scalable systems with agility. I am very passionate to apply my accquired engineering knowledge
@@ -21,7 +22,9 @@ and solve critical business and social problems which will add value to socity a
 ---
 
 ### **Technical Skills**
+
 <!-- Review -->
+
 - **Languages & Frameworks**: Java, C, Python, JavaScript, Spring Framework, Spring Boot, Spring Batch, Spring Cloud,
   JPA, Hibernate, SQL(Oracle & MySQL), NoSQL(DynamoDB), Shell Script.
 - **Technology & Tools**: Redis, AWS, SQS, S3, NLB, EC2, Kinesis, CloudWatch, JMS, RabbitMQ, Kafka, Wildfly, Tomcat,
@@ -39,6 +42,7 @@ and solve critical business and social problems which will add value to socity a
 ### **Mentionable Projects**
 
 #### **Digital Financial System**
+
 <!-- Project Line Single -->
 Digital Financial System ([DFS](https://konasl.com/digitization-platform/kona-dfs/) is a flexible product designed on
 micro-service-based architecture to serve the business to provide its customer a unified digital payment platform
@@ -47,6 +51,7 @@ back-office operations and data warehousing. [Nagad](https://nagad.com.bd/en/) i
 who are the second-largest mobile financial services, a venture by the Bangladesh Post Office with a user-base
 containing more than 50M users and daily avg transaction daily 3.5M.
 <!-- Max 4 Points to be made -->
+
 - Support Payment through different channels (e.g HCE, NFC, Smart-Phone, QR, USSD, Card, POS, ATM, Bank Transfer),
   Cashback, Discount, Promotion. Card Network, MNO (USSD, TopUp), Utility Billing integration with a flexible
   third-party integration model.
@@ -116,36 +121,33 @@ PKCS11, Smart Card, HCE, Oracle VM, System Automation, Micro Service, ISO 8583, 
 
 #### **EMV Verification Tool (K-EVT)**
 
-K-EVT (Kona EMV Verification Tool) tests a personalized EMV card. Before issuing of an EMV card, there needs to verify
-different data elements of the card according to the specifications of payment brands like Visa, MasterCard etc.
+Developed to test a personalized Payment(EMV) cards before issuing to users if different data and security module is working according to the specifications of payment brands( e.g. VISA,MASTERCARD, AMEX etc.)
 
-- Study and implement verification tool. Main responsibility was to implement the specifications.
+- Study specifications, design and develop test, reporting modules to support new payment brands.
 
-**Technology** Jave SE, File Base Storage, Smart Card  
+**Technology** Java, SmartCard, Payment Card, EMV, VISA, MASTERCARD, AMEX, ISO-7816.  
 **Website**:
 [emv-verification-tool-k-evt](https://konasl.com/smart-card-and-personalization/emv-verification-tool-k-evt)
 
 #### **Instant Issuance Service (K-IIS)**
 
-Desktop based application aimed to issue payment cards to customer at bank branch at once with low cost. This is
-integrated with Hoodo Machine to print payment cards instantly.
+Desktop application aimed to customize and issue payment cards to customers at bank branch at once.
 
-- study specifications and support new payment brand complying specifications.
-- Design and develop the application project.  
-- integrated Hoodo machine.
+- Study specifications, design and develop to support new payment brands.
+- Integrated Hoodo machine.
 
-**Technology** Spring, MyBatis, MySQL, Oracle, Smart Card, Hoodo, Global Platform, Embedded System, ISO-7816.  
+**Technology** Java, SmartCard, Payment Card, Hoodo, EMV, VISA, MASTERCARD, AMEX, ISO-7816.  
 **Website**:
 [instant-issuance-system-k-iis](https://konasl.com/smart-card-and-personalization/instant-issuance-system-k-iis/)
 
 #### **Key Management System (KMS)**
 
-For cryptography, there use a different type of keys DES, RSA, etc.) stored inside HSM (Hardware Security Module). To
-manage these keys and integrate with different HSM this KMS is used. This has been developed on specification given by
-Global Platform. 
-- I worked on customization of the module and HSM integration.  
+To perform cryptographic operation securely, HSM (Hardware Security Module) is used, that is accessed by KMS through
+simple generic APIs hiding hardware complexities.
 
-**Technology** Spring, MyBatis, MySQL, Oracle, Smart Card, HSM, Safenet, Thales.
+- Worked on customization of the module and HSM integration.
+
+**Technology** Spring, MyBatis, MySQL, Oracle, HSM, Safenet, Thales.
 
 ---
 
@@ -155,6 +157,7 @@ Global Platform.
 _Principal Engineer (Nov. 2021 – Present.)_  
 bKash is the largest MFS (mobile financial service) company in Bangladesh.
 <!-- Two Line -->
+
 - Understand the complex and proprietary payment system of bKash.
 - Analyze system bottlenecks and plan for the redesign of the existing architecture.
 - Working on some legacy services and converting them to reactive architecture for better performance.
@@ -162,6 +165,7 @@ bKash is the largest MFS (mobile financial service) company in Bangladesh.
 **Kona Software Lab Ltd., Dhaka, Bangladesh**    
 _Principal Software Engineer (Sept. 2013 – Nov. 2021)_
 <!-- 4/5 Line -->
+
 - Worked on the system design team for Kona Pay Platform, NexusPay, DFS, and developed account and payment modules of
   the core platform. Tuned the modules to scale up to 200 real-time financial transactions per second.
 - Study and understand specifications on payment and security to comply with the product development.
