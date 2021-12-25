@@ -1,15 +1,13 @@
-<div align="center">
-  <h2 style="font-size: 2em;"><b>Md. Badi-Uz-Zaman Shajib</b></h2>
-  <p>
-    <b>Dhaka, Bangladesh<br/>
-      <a href="mailto:mbzshajib@gmail.com">mbzshajib@gmail.com</a> &bull;
-      <a href="phone">+88 016 111 20220</a> &bull;
-      <a href="https://www.linkedin.com/in/mbzshajib">LinkedIn</a> &bull;
-      <a href="https://github.com/mbzshajib">GitHub</a>
-    </b>
-  </p>
-</div>
+# **Md. Badi-Uz-Zaman Shajib**
 
+[Home Page](https://mbzshajib.github.io)  
+[Email: mbzshajib@gmail.com](mailto:mbzshajib@gmail.com)  
+[LinkedIn: mbzshajib](https://www.linkedin.com/in/mbzshajib)  
+[GitHub:mbzshajib](https://github.com/mbzshajib)
+[+88 01611120220](+88 01611120220)
+
+---
+---
 ---
 
 ### **Summary**
@@ -24,19 +22,18 @@ value to society and help people to have a better life.
 
 <!-- Review -->
 
-- **Languages & Frameworks**: Java, C, Spring Framework, Spring Boot, Spring Batch, Spring Cloud, JPA, Hibernate, SQL(
-  Oracle & MySQL), NoSQL(DynamoDB), Shell Script.
-- **Technology & Tools**: Redis, RabbitMQ, Kafka, Tomcat, Undertow, HA Proxy, Mosquitto, Zuul, F5, Switch, JMeter, ELK
-  Stack, APM, Prometheus, Grafana, Unix/Linux, Gradle, Maven, Docker, Git, Jenkins, Ansible, Jira, Confluence, Intellij
-  IDEA, Visual Studio.
-- **Payment & Security**: EMV Payment, Smart Card, Tokenization, HCE Payment, QR Payment, Payment Gateway, Payment
-  Switch, HSM, Payment Processor, Cryptography, POS, Accounting, ISO/IEC-7816, ISO-8583, PCI/DSS, ISO 9564, PKCS7,
-  PKCS11.
-- **Interest**: Software Design, Micro Service, Cloud Computing.
-
-[comment]: <> (- **Soft Skills**: Teamwork, planning, debugging, analyzing, finding solutions. Learning new things,)
-
-[comment]: <> (  adapting to new environments and cultures, and being respectful to others' opinions.)
+- **Languages & Frameworks:** Java, C, Spring, JPA, Hibernate, SQL, Oracle, MySQL, NoSQL, DynamoDB, Shell Script.
+- **Technology & Tools:** Redis, RabbitMQ, Kafka, Undertow, Mosquitto, F5, Switch.
+- **Project:** Jira, Confluence.
+- **Operating System:** Windows, Unix/Linux.
+- **IDE:** Intellij IDEA, Visual Studio.
+- **Dev Tools:** Gradle, Maven, Docker, Git.
+- **Monitoring:** ELK, APM, Prometheus, Grafana, Ansible, Jenkins.
+- **Payment & Security:** EMV, Smart Card, Tokenization, HCE, PGW, HSM, Payment Processor, Cryptography, POS,
+  Accounting.
+- **Specifications:** ISO/IEC-7816, ISO-8583, PCI/DSS, ISO-9564, PKCS7, PKCS11.
+- **Interest:** Software Design, Micro Service, Cloud Computing.
+- **Soft Skills:** Teamwork, planing and execution, learn and adapt new environment,
 
 ---
 
@@ -45,50 +42,23 @@ value to society and help people to have a better life.
 #### **Digital Financial System (DFS)**
 
 <!-- Project Line Single -->
-A flexible product based on [Kona Pay](https://konasl.com/digitization-platform/kona-pay/) Platform to serve the
-business to provide its customer a unified digital payment platform to support large number of active users who perform
-payment and other value added services. Along with other Kona Pay services it supports USSD channel, virtual card
-payment, reward management, back office batch processing and several web portals to serve business.
+A flexible product based on [Kona Pay](https://konasl.com/digitization-platform/kona-pay/) Platform provides end
+consumers a unified digital payment environment to support large number of active users to avail payment and other value
+added services. Along with other Kona Pay services it supports USSD channel, virtual card payment, reward management,
+promotion, and back office batch processing and several web portals to serve business.
 
-[comment]: <> (It also supports back-office operations and data warehousing. [Nagad]&#40;https://nagad.com.bd/en/&#41; is one of the customers of this platform)
-
-[comment]: <> (who are the second-largest mobile financial services, a venture by the Bangladesh Post Office with a user-base)
-
-[comment]: <> (containing more than 50M users and daily avg transaction daily 3.5M.)
-<!-- Max 4 Points to be made -->
-
-[comment]: <> (- Support Payment through different channels &#40;e.g HCE based payment, QR, USSD, virtual vard, bank transfer, web&#41;,)
-
-[comment]: <> (  Cashback, Discount, Promotion. Card Network, MNO &#40;USSD, TopUp&#41;, Utility Billing integration with a flexible)
-
-[comment]: <> (  third-party integration.)
-
-- Support 50M users and 3.5M realtime transaction(daily avg) in Nagad Project (DFS Deployment), which is the fastest
-  growing MFS in Bangladesh.
+- Designed and developed core Accounting and Payment modules of the platform.
+- Monitor system performance and optimized for performing 20M realtime payment per day in Nagad Project (DFS Deployment)
+  , which is the fastest growing MFS in Bangladesh. System was tested with 50M users among them 1.5M active.
 - Worked on batch data processing for back office transaction clearing & settlement, reporting and data warehousing.
 - Monitor system performance and optimized for performing 60M transactions per day.
 - Deployed on private data center ensuring compliance of regulatory, security, high availability, and options to scale
   up.
-- I have worked as a System Designer and tech lead of the core system team. Designed and developed core Accounting and
-  Payment services of the platform.
 
-**Technology** Java, Spring Boot, Spring Batch, Spring Cloud, Hibernate, Oracle, HA Proxy, Nginx, HCE, ISO 8583,
-Accounting System, EMV QR, Payment Processor, F5, Safenet HSM, Redis, RabbitMQ, APM, ELK, Grafana, Prometheus.  
-**Website**: [Digital Financial System](https://konasl.com/digitization-platform/kona-dfs/)
+**Technology** Java, Spring, Oracle, Hibernate, Redis, RabbitMQ, Micro Services, Batching, Undertow, Nginx, HCE,
+Accounting System, Safenet HSM, APM, ELK, Grafana, Prometheus, ISO-8583, ISO-9564, PCI/DSS.  
+**Website:** [Digital Financial System](https://konasl.com/digitization-platform/kona-dfs/)
 || [nagad.com.bd](https://nagad.com.bd)
-
-#### **DHAKA NEXT**
-
-DHAKA NEXT platform to replace the standard physical race with a virtual one to empower active and aspiring athletes to
-maintain their fitness even in the times of Covid-19.
-
-- Worked as system designer to integrate race platform with fitness data provider (Strava, MapMyRun) Throttled
-  third-party paid API calls to reduce cost.
-- Designed race policy and consulted for server load maintenance at race time.
-- Designed, Tested, and optimized system for 5K people to participate in a single race.
-
-**Technology** PHP, MYSQL, Laravel, Wearable.  
-**Website**: [next.dhakarunlords.com](https://next.dhakarunlords.com)
 
 #### **NexusPay**
 
@@ -97,15 +67,15 @@ Banking accounts of Dutch-Bangla Bank Ltd, Bangladesh. This project is a customi
 of [Kona Pay](https://konasl.com/digitization-platform/kona-pay/) Platform for Bank Integration.
 
 - Integrated multiple bank accounting systems for issuing HCE payment card.
-- Support multiple payment & transaction methods (e.g. NFC, POS, HCE, QR, e-com, utility & bill, ATM etc.)
+- Support multiple payment & transaction methods (e.g. NFC, POS, HCE, EMV QR, e-com, utility & bill, ATM etc.)
 - Worked as a system designer and implemented core payment authorization modules and POS applications on Ingenico and
   Nexgo devices for contactless payment.
 - Prepared app servers and deployed in Bank data center with compliance of regulatory, high availability, and option to
   scale up.
 
-**Technology** SpringBoot, Hibernate, Oracle, Redis, RabbitMQ, HCE, Oracle VM, System Automation, Micro Service, PKCS11,
-ISO 8583, ISO 9564, Oracle VM.
-**Website**: [NexusPay](https://www.dutchbanglabank.com/nexuspay/nexusPay-home.html)
+**Technology** Java, Spring, Hibernate, Oracle, Redis, RabbitMQ, Micro Services, wildfly, HCE, ATM, POS, EMV QR, NFC,
+Thales HSM, PM, ISO-8583, ISO-9564, PCI/DSS.  
+**Website:** [NexusPay](https://www.dutchbanglabank.com/nexuspay/nexusPay-home.html)
 
 #### **Kona Card**
 
@@ -118,8 +88,8 @@ smart-card, and other flexible channels.
 - Developed a continuous delivery process with Jenkins and Oracle Virtual box.
 
 **Technology** SpringBoot, Hibernate, Oracle, Redis, RabbitMQ, HCE, Oracle VM, System Automation, Micro Service, PKCS11,
-ISO 8583, ISO 9564, Oracle VM.  
-**Website**: [konacard.co.kr](https://www.konacard.co.kr)
+ISO-8583, ISO-9564, Oracle VM.  
+**Website:** [konacard.co.kr](https://www.konacard.co.kr)
 
 #### **EMV Verification Tool (K-EVT)**
 
@@ -129,7 +99,7 @@ working according to the specifications of payment brands( e.g. VISA,MASTERCARD,
 - Study specifications, design and develop test, reporting modules to support new payment brands.
 
 **Technology** Java, SmartCard, Payment Card, EMV, VISA, MASTERCARD, AMEX, ISO-7816.  
-**Website**:
+**Website:**
 [emv-verification-tool-k-evt](https://konasl.com/smart-card-and-personalization/emv-verification-tool-k-evt)
 
 #### **Instant Issuance Service (K-IIS)**
@@ -140,7 +110,7 @@ Desktop application aimed to customize and issue payment cards to customers at b
 - Integrated Hoodo machine.
 
 **Technology** Java, SmartCard, Payment Card, Hoodo, EMV, VISA, MASTERCARD, AMEX, ISO-7816.  
-**Website**:
+**Website:**
 [instant-issuance-system-k-iis](https://konasl.com/smart-card-and-personalization/instant-issuance-system-k-iis/)
 
 #### **Key Management System (KMS)**
@@ -153,6 +123,19 @@ simple generic APIs hiding hardware complexities.
 **Technology** Spring, MyBatis, MySQL, Oracle, HSM, Safenet, Thales.
 
 ---
+
+#### **DHAKA NEXT**
+
+DHAKA NEXT platform to replace the standard physical race with a virtual one to empower active and aspiring athletes to
+maintain their fitness even in the times of Covid-19.
+
+- Worked as system designer to integrate race platform with fitness data provider (Strava, MapMyRun) Throttled
+  third-party paid API calls to reduce cost.
+- Designed race policy and consulted for server load maintenance at race time.
+- Designed, Tested, and optimized system for 5K people to participate in a single race.
+
+**Technology** PHP, MYSQL, Laravel, Wearable.  
+**Website:** [next.dhakarunlords.com](https://next.dhakarunlords.com)
 
 ### **Professional Experience**
 
@@ -168,9 +151,11 @@ bKash is the largest MFS (mobile financial service) company in Bangladesh.
 _Principal Software Engineer (Sept. 2013 – Nov. 2021)_
 <!-- 4/5 Line -->
 
-- Study, understand and implement specifications on payment and security for development of payment modules.
+- Study, understand and implement specifications on payment and security for development of payment and security
+  modules.
+- I have worked as a System Designer and tech lead of the core system team consisting 11 programmers
 - Worked on the system design team for Kona Pay Platform, NexusPay, DFS, and developed account and payment authorization
-  modules of the core platform. Tuned the modules to scale up to 200 real-time financial transactions per second and 50M
+  modules of the core platform. Tuned the modules to scale up to 250 real-time financial transactions per second and 20M
   transaction per day.
 - Analyzed client requirements and design them to fit into the product. Worked as tech lead of development team for
   several projects in planning, developing, and delivering the project requirements within timeline.
